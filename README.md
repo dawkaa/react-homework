@@ -2,6 +2,10 @@
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install a package
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
@@ -13,6 +17,10 @@ You will also see any lint errors in the console.
 ## Backend Available Scripts
 
 In the project backend directory, you can run:
+
+### `npm install`
+
+Install a package like mentioned top
 
 ### `npm start`
 
