@@ -1,0 +1,10 @@
+#totop.on {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    visibility: visible;
+}
+
+#totop, #totop.off {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
